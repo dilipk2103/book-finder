@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     allowedHosts: [
-      "qgmn5c-5173.csb.app", // 👈 Add your host here
+      "qgmn5c-5173.csb.app",
     ],
   },
 });
